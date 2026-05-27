@@ -1,5 +1,5 @@
 import project1 from '../assets/dcss.png';
-import project2 from '../assets/avss.png';
+import project2 from '../assets/asvss.png';
 import project3 from '../assets/wess.png';
 
 export const projects = [
@@ -16,13 +16,13 @@ export const projects = [
   },
   {
     id: 2,
-    title: "Audio Visualizer",
-    description: "An audio visualizer completely made with Java. Play your favourite music and watch it dance to the beats. Only supports .wav files tho :(",
+    title: "A-Star Pathfinder",
+    description: "A* algorithm is a pathfinding algorithm. In a randomly generated maze, it will find the correct exit by traversing through every possible routes, which works on the heuristic data",
     image: project2,
-    tags: ["Audio", "Java", ".wav", "Logic"],
+    tags: ["Pathfinder", "Java", "Maze", "Logic", "A-Star Algorithm"],
     links: {
-      github: "https://github.com/itssiddharthXD",
-      demo: "https://github.com/itssiddharthXD"
+      github: "https://github.com/itssiddharthXD/AStarPathfinder",
+      demo: "https://github.com/itssiddharthXD/AStarPathfinder"
     }
   },
   {

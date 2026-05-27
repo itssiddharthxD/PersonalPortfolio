@@ -6,7 +6,7 @@ export const skills = {
   ],
   'Languages': [
     { name: 'C# / C++', level: 20 },
-    { name: 'Java', level: 70 },
+    { name: 'Java', level: 80 },
     { name: 'JavaScript', level: 90 },
   ],
   'Core Tech': [
