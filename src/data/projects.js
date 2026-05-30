@@ -11,7 +11,9 @@ export const projects = [
     tags: ["Java", "Maths", "Swing GUI"],
     links: {
       github: "https://github.com/itssiddharthXD/DesmosClone",
-      demo: "https://github.com/itssiddharthXD/DesmosClone"
+      demo: "https://github.com/itssiddharthXD/DesmosClone",
+      href: "/assets/DesmosClone.rar",
+      download: "DesmosClone.rar"
     }
   },
   {
@@ -22,7 +24,9 @@ export const projects = [
     tags: ["Pathfinder", "Java", "Maze", "Logic", "A-Star Algorithm"],
     links: {
       github: "https://github.com/itssiddharthXD/AStarPathfinder",
-      demo: "https://github.com/itssiddharthXD/AStarPathfinder"
+      demo: "https://github.com/itssiddharthXD/AStarPathfinder",
+      href: "/assets/AStarPathfinder.rar",
+      download: "AStarPathfinder.rar"
     }
   },
   {
@@ -33,7 +37,9 @@ export const projects = [
     tags: ["Java", "Game", "Physics", "Multi-Level"],
     links: {
       github: "https://github.com/itssiddharthXD",
-      demo: "https://github.com/itssiddharthXD"
+      demo: "https://github.com/itssiddharthXD",
+      href: "/assets/WaveEvolved.rar",
+      download: "WaveEvolved.rar"
     }
   }
 ];
