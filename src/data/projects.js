@@ -1,19 +1,19 @@
-import project1 from '../assets/dcss.png';
+import project1 from '../assets/pgss.png';
 import project2 from '../assets/asvss.png';
 import project3 from '../assets/wess.png';
 
 export const projects = [
   {
     id: 1,
-    title: "Desmos Clone",
-    description: "A simple and basic clone of Desmos, using pure Java",
+    title: "Planet Guardian",
+    description: "A retro styled 2D space game, in which you protect a planet from asteroids",
     image: project1,
-    tags: ["Java", "Maths", "Swing GUI"],
+    tags: ["Java", "Logic", "Swing GUI", "Space Game", "Trigonometry"],
     links: {
-      github: "https://github.com/itssiddharthXD/DesmosClone",
-      demo: "https://github.com/itssiddharthXD/DesmosClone",
-      href: "/assets/DesmosClone.rar",
-      download: "DesmosClone.rar"
+      github: "https://github.com/itssiddharthXD/Planet-Guardian",
+      demo: "https://github.com/itssiddharthXD/",
+      href: "/assets/PlanetGuardian.rar",
+      download: "PlanetGuardian.rar"
     }
   },
   {
